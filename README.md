@@ -53,3 +53,7 @@ Telegram-Bot muss selbst erstellt werden    https://www.youtube.com/watch?v=aNmR
 Eine Verbesserung oder Erweiterung der Funktionen des Bots ist nur möglich, wenn mehr Interesse daran besteht. Keine Sorge, dieser Bot wird in Zukunft niemals kostenpflichtig sein, zumal er nicht gut programmiert ist.
 
 In den nächsten Tagen wird ein detailliertes Tutorial bzw. Showcase zu diesem Skript veröffentlicht. Zu diesem Zeitpunkt wird auch der Code freigegeben. Im Moment ist es noch nicht soweit, da ich sicherstellen möchte, dass er zu 99% wie versprochen funktioniert.
+
+
+
+Video hierzu: https://www.dropbox.com/sh/ybmdxgj7a9t0ga1/AAAQeHyB-heMCsT7QSUsIbN3a?dl=0
