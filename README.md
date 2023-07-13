@@ -57,3 +57,6 @@ In den nächsten Tagen wird ein detailliertes Tutorial bzw. Showcase zu diesem S
 
 
 Video hierzu: https://www.dropbox.com/sh/ybmdxgj7a9t0ga1/AAAQeHyB-heMCsT7QSUsIbN3a?dl=0
+
+Sorry, für die schlechte Audioqualität. Ich habe erst jetzt gemerkt, dass ich in OBS das falsche Mikro ausgewählt habe...
+Ich werde bei Gelegenheit ein neues Video erstellen.
