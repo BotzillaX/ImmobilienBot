@@ -646,7 +646,7 @@ def greet(message):
     if message.text == "Start" or message.text == "start" or message.text == "START":
         
         running = True
-        bot.send_message(message.chat.id, "Damit hast du nun den Bot gestartet. Falls du nun irgendwo hingehst und du kannst via Teamviewer das Script nicht stoppen, schreib \"beenden\"")  
+        bot.send_message(message.chat.id, "Damit hast du nun den Bot gestartet.")  
         global originalerUrl
         originalerUrl= premiumOrNot1(premiumOrNot) #wird rausgenommen, sobald es öffentlich ist, außer es wird auch für nicht premium user verfügbar sein
         
